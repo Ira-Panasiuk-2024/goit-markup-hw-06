@@ -1,7 +1,61 @@
 body {
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #fcfcfc;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: medium;
+}
+
+header {
+  background-color: #ffffff;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  color: #2e2f42;
+  font-size: 18px;
+  line-height: 1.16667;
+  font-weight: bold;
+}
+
+span {
+  color: #4d5ae5;
+}
+
+.menu-nav {
+  color: #2e2f42;
+}
+
+.text-contacts {
+  font-weight: regular;
+}
+
+a :hover {
+  color: #404bbf;
+}
+
+.hero {
+  background-color: #2e2f42;
+}
+h1 {
+  color: #fff;
+  font-size: 56px;
+  line-height: 1.07143;
+  font-weight: bold;
+}
+button {
+  background-color: #4d5ae5;
+}
+
+button :hover {
+  background-color: #404bbf;
+  cursor: pointer;
+}
+
+.button-text {
+  font-family: "Roboto", sans-serif;
+  color: #fff;
   font-size: 16px;
   line-height: 1.5;
   font-weight: medium;
