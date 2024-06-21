@@ -11,7 +11,7 @@ header {
   background-color: #ffffff;
 }
 
-.logo {
+.logo-nav {
   font-family: "Raleway", sans-serif;
   color: #2e2f42;
   font-size: 18px;
@@ -25,10 +25,18 @@ span {
 
 .menu-nav {
   color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  font-weight: medium;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 .text-contacts {
   font-weight: regular;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
 }
 
 a :hover {
@@ -38,7 +46,9 @@ a :hover {
 .hero {
   background-color: #2e2f42;
 }
+
 h1 {
+  font-family: "Roboto", sans-serif;
   color: #fff;
   font-size: 56px;
   line-height: 1.07143;
@@ -46,17 +56,81 @@ h1 {
 }
 button {
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 button :hover {
   background-color: #404bbf;
-  cursor: pointer;
 }
 
 .button-text {
   font-family: "Roboto", sans-serif;
-  color: #fff;
+  font-weight: medium;
   font-size: 16px;
   line-height: 1.5;
+  color: #fff;
+}
+
+.sec-friend {
+  background-color: #fcfcfc;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.11111;
+  color: #2e2f42;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
   font-weight: medium;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2e2f42;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-weight: regular;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+
+.third-section {
+  background-color: #f4f4fd;
+}
+
+.team-card {
+  background-color: #ffffff;
+}
+
+.fourth-chapter {
+  background-color: #e7e9fc;
+}
+
+.portfolio {
+  background-color: #ffffff;
+}
+
+footer {
+  background-color: #2e2f42;
+}
+
+.footer-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: regular;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #f4f4fd;
+}
+
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 1.16667;
+  color: #f4f4fd;
 }
