@@ -1,10 +1,10 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #fcfcfc;
+  background-color: #ffffff;
   font-size: 16px;
   line-height: 1.5;
-  font-weight: medium;
+  font-weight: 500;
 }
 
 header {
@@ -13,33 +13,44 @@ header {
 
 .logo-nav {
   font-family: "Raleway", sans-serif;
-  color: #2e2f42;
+  color: #4d5ae5;
   font-size: 18px;
-  line-height: 1.16667;
-  font-weight: bold;
+  line-height: 1.17;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
-span {
-  color: #4d5ae5;
+.nav-span {
+  color: #2e2f42;
 }
 
 .menu-nav {
   color: #2e2f42;
   font-family: "Roboto", sans-serif;
-  font-weight: medium;
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .text-contacts {
-  font-weight: regular;
+  font-weight: 400;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
+  letter-spacing: 0.02em;
+  font-style: normal;
 }
 
-a :hover {
+.menu-nav .link:hover,
+.menu-nav .link:focus {
+  color: #404bbf;
+}
+
+.text-contacts .link:hover,
+.text-contacts .link:focus {
   color: #404bbf;
 }
 
@@ -49,26 +60,30 @@ a :hover {
 
 h1 {
   font-family: "Roboto", sans-serif;
-  color: #fff;
+  color: #ffffff;
   font-size: 56px;
-  line-height: 1.07143;
-  font-weight: bold;
+  line-height: 1.07;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0.02em;
 }
 button {
   background-color: #4d5ae5;
   cursor: pointer;
 }
 
-button :hover {
+.button-text :hover,
+.button-text :focus {
   background-color: #404bbf;
 }
 
 .button-text {
   font-family: "Roboto", sans-serif;
-  font-weight: medium;
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  color: #fff;
+  color: #ffffff;
+  letter-spacing: 0.04em;
 }
 
 .sec-friend {
@@ -77,25 +92,30 @@ button :hover {
 
 h2 {
   font-family: "Roboto", sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
 h3 {
   font-family: "Roboto", sans-serif;
-  font-weight: medium;
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
 p {
   font-family: "Roboto", sans-serif;
-  font-weight: regular;
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
@@ -119,18 +139,25 @@ footer {
   background-color: #2e2f42;
 }
 
+.foot-span {
+  color: #f4f4fd;
+}
+
 .footer-text {
   font-family: "Roboto", sans-serif;
-  font-weight: regular;
+  font-weight: 400;
   font-size: 16px;
+  letter-spacing: 0.02em;
   line-height: 1.5;
   color: #f4f4fd;
 }
 
 .logo-footer {
   font-family: "Raleway", sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
-  color: #f4f4fd;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
