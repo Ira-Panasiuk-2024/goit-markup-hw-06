@@ -34,7 +34,7 @@ header {
   letter-spacing: 0.02em;
 }
 
-.text-contacts {
+.contacts {
   font-weight: 400;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
@@ -49,8 +49,8 @@ header {
   color: #404bbf;
 }
 
-.text-contacts .link:hover,
-.text-contacts .link:focus {
+.contacts .link:hover,
+.contacts .link:focus {
   color: #404bbf;
 }
 
@@ -58,7 +58,7 @@ header {
   background-color: #2e2f42;
 }
 
-h1 {
+.title-hero {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
   font-size: 56px;
@@ -72,8 +72,8 @@ button {
   cursor: pointer;
 }
 
-.button-text :hover,
-.button-text :focus {
+.hero .button-text :hover,
+.hero .button-text :focus {
   background-color: #404bbf;
 }
 
@@ -90,7 +90,7 @@ button {
   background-color: #fcfcfc;
 }
 
-h2 {
+.title-sec {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -101,7 +101,7 @@ h2 {
   color: #2e2f42;
 }
 
-h3 {
+.title-friend {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -110,7 +110,7 @@ h3 {
   color: #2e2f42;
 }
 
-p {
+.text-sec {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -127,6 +127,35 @@ p {
   background-color: #ffffff;
 }
 
+.title-third-sec {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.title-third {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.text-third {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .fourth-chapter {
   background-color: #e7e9fc;
 }
@@ -135,11 +164,40 @@ p {
   background-color: #ffffff;
 }
 
-footer {
+.title-fourth-chap {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.title-fourth {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.text-fourth {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.foot {
   background-color: #2e2f42;
 }
 
-.foot-span {
+.span-footer {
   color: #f4f4fd;
 }
 
