@@ -25,7 +25,7 @@ header {
   color: #2e2f42;
 }
 
-.list-nav {
+.link-nav {
   color: #2e2f42;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -34,35 +34,26 @@ header {
   letter-spacing: 0.02em;
 }
 
-.list-nav {
-  color: #2e2f42;
-}
-
 .contacts {
   font-style: normal;
 }
 
-.list-con {
+.link-con {
+  color: #434455;
   font-weight: 400;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #434455;
   letter-spacing: 0.02em;
-  font-style: normal;
 }
 
-.list-con {
-  color: #434455;
-}
-
-.menu-nav .link:hover,
-.menu-nav .link:focus {
+.menu-nav .link-nav:hover,
+.menu-nav .link-nav:focus {
   color: #404bbf;
 }
 
-.contacts .link:hover,
-.contacts .link:focus {
+.contacts .link-con:hover,
+.contacts .link-con:focus {
   color: #404bbf;
 }
 
@@ -136,7 +127,7 @@ button {
 }
 
 .list-card {
-  color: #ffffff;
+  background-color: #ffffff;
 }
 
 .title-third-sec {
