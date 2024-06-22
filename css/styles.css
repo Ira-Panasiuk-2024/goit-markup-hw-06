@@ -34,6 +34,10 @@ header {
   letter-spacing: 0.02em;
 }
 
+.list-nav {
+  color: #2e2f42;
+}
+
 .contacts {
   font-weight: 400;
   font-family: "Roboto", sans-serif;
@@ -42,6 +46,10 @@ header {
   color: #434455;
   letter-spacing: 0.02em;
   font-style: normal;
+}
+
+.list-con {
+  color: #434455;
 }
 
 .menu-nav .link:hover,
@@ -72,8 +80,8 @@ button {
   cursor: pointer;
 }
 
-.hero .button-text :hover,
-.hero .button-text :focus {
+.hero .button-text:hover,
+.hero .button-text:focus {
   background-color: #404bbf;
 }
 
@@ -125,6 +133,10 @@ button {
 
 .team-card {
   background-color: #ffffff;
+}
+
+.list-card {
+  color: #ffffff;
 }
 
 .title-third-sec {
