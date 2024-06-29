@@ -1,4 +1,5 @@
 body {
+  margin: 0;
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -35,14 +36,22 @@ img {
 
 .container {
   max-width: 1158px;
-  padding-left: 15px;
-  padding-right: 15px;
-  margin-left: auto;
-  margin-right: auto;
+  padding: 0 15px;
+  margin: 0 auto;
 }
 
 .header {
   background-color: #ffffff;
+  border-bottom: 1px solid #e7e9fc;
+  padding: 24px 0;
+}
+
+.container_header-container {
+  display: flex;
+}
+
+.header-nav {
+  display: flex;
 }
 
 .header-nav-logo {
@@ -53,10 +62,24 @@ img {
   font-weight: 700;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 0px;
+  padding-right: 76px;
 }
 
 .header-nav-span {
   color: #2e2f42;
+}
+
+.menu-nav {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 40px;
 }
 
 .menu-nav-link {
@@ -70,6 +93,15 @@ img {
 
 .contacts {
   font-style: normal;
+  padding-left: 332px;
+}
+
+.contacts-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-direction: row;
+  gap: 40px;
 }
 
 .contacts-item-link {
@@ -93,6 +125,8 @@ img {
 
 .hero {
   background-color: #2e2f42;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .hero-title {
@@ -103,9 +137,10 @@ img {
   font-weight: 700;
   text-align: center;
   letter-spacing: 0.02em;
+  margin: 0 auto 48px auto;
 }
 
-.hero-button-text {
+.hero-button {
   background-color: #4d5ae5;
   cursor: pointer;
   font-family: "Roboto", sans-serif;
@@ -114,10 +149,18 @@ img {
   line-height: 1.5;
   color: #ffffff;
   letter-spacing: 0.04em;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: row;
+  gap: 10px;
+  border-radius: 4px;
+  padding: 16px 32px;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 
-.hero .hero-button-text:hover,
-.hero .hero-button-text:focus {
+.hero .hero-button:hover,
+.hero .hero-button:focus {
   background-color: #404bbf;
 }
 
