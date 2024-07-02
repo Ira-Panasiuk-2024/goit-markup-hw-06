@@ -302,7 +302,8 @@ img {
 
 .fourth-chapter-portfolio {
   display: flex;
-  gap: 24px;
+  column-gap: 24px;
+  row-gap: 48px;
   flex-wrap: wrap;
 }
 
