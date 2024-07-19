@@ -585,7 +585,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 24px;
+  /* gap: 24px; */
 }
 
 .form-label {
@@ -596,7 +596,7 @@ img {
   font-size: 12px;
   line-height: 2;
   letter-spacing: 0.04em;
-  padding-left: 16px;
+  padding: 8px 16px;
   color: #ffffff;
   border: 1px solid #fff;
   border-radius: 4px;
@@ -620,7 +620,7 @@ img {
   color: #ffffff;
   width: 36px;
   height: 24px;
-  padding: 8px 16px;
+  /* padding: 8px 16px; */
 }
 
 .form-input:hover::placeholder,
@@ -643,7 +643,7 @@ img {
   color: #fff;
   letter-spacing: 0.04em;
   display: flex;
-  gap: 16px;
+  /* gap: 16px; */
 
   align-items: center;
   justify-content: center;
