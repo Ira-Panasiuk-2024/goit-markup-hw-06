@@ -650,7 +650,7 @@ img {
   flex-direction: row;
   border-radius: 4px;
   padding: 8px 22px;
-  width: 165px;
+  min-width: 165px;
   height: 40px;
   margin: 0 auto;
   border: none;
@@ -725,9 +725,9 @@ img {
   right: 24px;
   /* для обнулення дефолтних відступів, які елемент має від браузера */
   padding: 0;
-  /* display: flex;
+  display: flex;
   align-items: center;
-  justify-content: center; */
+  justify-content: center;
 
   width: 24px;
   height: 24px;
@@ -839,9 +839,9 @@ img {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 12px;
-  line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
+  line-height: 1.17;
   display: block;
   margin-bottom: 4px;
 }
@@ -913,7 +913,6 @@ img {
   height: 16px;
   border-radius: 2px;
   border: 1px solid rgba(46, 47, 66, 0.4);
-  /* display: flex; */
   align-items: center;
   justify-content: center;
   fill: transparent;
