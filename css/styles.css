@@ -562,8 +562,7 @@ img {
 
 .foot-form-wrap {
   margin-left: auto;
-  width: 453px;
-  height: 80;
+  height: 80px;
 }
 
 .foot-form-text {
@@ -589,7 +588,6 @@ img {
 }
 
 .form-label {
-  margin-right: 24px;
 }
 
 .form-input {
@@ -642,7 +640,6 @@ img {
   color: #fff;
   letter-spacing: 0.04em;
   display: flex;
-  /* gap: 16px; */
 
   align-items: center;
   justify-content: center;
@@ -770,7 +767,6 @@ img {
   color: #2e2f42;
   max-width: 360px;
   margin-bottom: 16px;
-  margin-top: 24px;
 }
 
 .modal-field {
