@@ -795,9 +795,7 @@ img {
   height: 40px;
   background-color: transparent;
   padding-left: 38px;
-  /* padding-top: 11px;
-  padding-bottom: 11px;
-  padding-right: 16px; */
+
   color: #2e2f42;
   font-size: 16px;
   outline: transparent;
@@ -829,17 +827,6 @@ img {
 .modal-field-textarea {
   margin-bottom: 16px;
 }
-
-/* .modal-comment-text {
-  font-family: "Roboto", sans-serif;
-  font-weight: 400;
-  font-size: 12px;
-  letter-spacing: 0.04em;
-  color: #8e8f99;
-  line-height: 1.17;
-  display: block;
-  margin-bottom: 4px;
-} */
 
 .modal-comment {
   width: 100%;
@@ -892,11 +879,7 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  /* display: flex; */
-  /* align-items: center;
-  justify-content: flex-start;
-  flex-direction: row; */
-  /* gap: 8px; */
+
   border-radius: 4px;
 }
 
@@ -935,7 +918,7 @@ img {
   line-height: 1.5;
   color: #ffffff;
   letter-spacing: 0.04em;
-  display: flex;
+  display: block;
   align-items: flex-start;
   justify-content: flex-start;
   flex-direction: row;
@@ -945,7 +928,6 @@ img {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   min-width: 169px;
   height: 56px;
-  display: block;
   margin: 0 auto;
   border: none;
 
