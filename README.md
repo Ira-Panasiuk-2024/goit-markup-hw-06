@@ -31,7 +31,7 @@ WebStudio is a modern, responsive business portfolio website that showcases effe
 <a href="https://ira-panasiuk-2024.github.io/goit-markup-hw-06/" target="_blank" rel="noopener noreferrer">View Live Website</a>
 
 **GitHub Repository:**
-<a href="https://github.com/Ira-Panasiuk-2024/goit-react-hw-06" target="_blank" rel="noopener noreferrer">View
+<a href="https://github.com/Ira-Panasiuk-2024/goit-markup-hw-06" target="_blank" rel="noopener noreferrer">View
 Source Code</a>
 
 ### Installation & Usage
@@ -85,7 +85,7 @@ WebStudio - це сучасний, адаптивний веб-сайт бізн
 <a href="https://ira-panasiuk-2024.github.io/goit-markup-hw-06/" target="_blank" rel="noopener noreferrer">Переглянути веб-сай</a>
 
 **GitHub репозиторій:**
-<a href="https://github.com/Ira-Panasiuk-2024/goit-react-hw-06" target="_blank" rel="noopener noreferrer">Переглянути
+<a href="https://github.com/Ira-Panasiuk-2024/goit-markup-hw-06" target="_blank" rel="noopener noreferrer">Переглянути
 вихідний код</a>
 
 ### Встановлення та використання
