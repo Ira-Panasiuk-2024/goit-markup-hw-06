@@ -112,7 +112,11 @@ WebStudio - це сучасний, адаптивний веб-сайт бізн
 
 **Developer | Розробник**: Ira Panasiuk
 
-**GitHub**: [Ira-Panasiuk-2024](https://github.com/Ira-Panasiuk-2024)
+**GitHub**:
+<a href="https://github.com/Ira-Panasiuk-2024" target="_blank" rel="noopener noreferrer">GitHub
+Profile</a> / **Ірина Панасюк:** -
+<a href="https://github.com/Ira-Panasiuk-2024" target="_blank" rel="noopener noreferrer">GitHub
+профіль</a>
 
 ---
 
