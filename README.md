@@ -110,9 +110,8 @@ WebStudio - це сучасний, адаптивний веб-сайт бізн
 
 ## 📧 Contact | Контакти
 
-**Developer | Розробник**: Ira Panasiuk
+**Developer | Розробник**: Ira Panasiuk | Ірина Панасюк
 
-**GitHub**:
 <a href="https://github.com/Ira-Panasiuk-2024" target="_blank" rel="noopener noreferrer">GitHub
 Profile</a> / **Ірина Панасюк:** -
 <a href="https://github.com/Ira-Panasiuk-2024" target="_blank" rel="noopener noreferrer">GitHub
