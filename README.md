@@ -82,7 +82,7 @@ WebStudio - це сучасний, адаптивний веб-сайт бізн
 ## 🌐 Демо
 
 **Живий застосунок:**
-<a href="https://ira-panasiuk-2024.github.io/goit-markup-hw-06/" target="_blank" rel="noopener noreferrer">Переглянути веб-сай</a>
+<a href="https://ira-panasiuk-2024.github.io/goit-markup-hw-06/" target="_blank" rel="noopener noreferrer">Переглянути веб-сайт</a>
 
 **GitHub репозиторій:**
 <a href="https://github.com/Ira-Panasiuk-2024/goit-markup-hw-06" target="_blank" rel="noopener noreferrer">Переглянути
